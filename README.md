@@ -129,21 +129,6 @@ struct NitinJiloha {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nitinsjiloha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinsjiloha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinsjiloha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitinsjiloha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</p>
-
 ---
 
 ### 🧩 Competitive Programming
@@ -157,12 +142,6 @@ struct NitinJiloha {
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nitinsjiloha/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
 
 ---
 
