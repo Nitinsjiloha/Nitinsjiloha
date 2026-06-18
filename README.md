@@ -11,7 +11,7 @@
   <a href="https://codeforces.com/profile/nitinsingh__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/Nitinsjiloha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:jilohanitin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nitinsjiloha&style=for-the-badge&color=00E5A0&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nitinsjiloha&style=for-the-badge&color=00E5A0&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -137,11 +137,11 @@ struct NitinJiloha {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinsjiloha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitinsjiloha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
