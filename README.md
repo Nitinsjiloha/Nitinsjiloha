@@ -149,7 +149,7 @@ struct NitinJiloha {
 ### 🧩 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nitinsjiloha?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
@@ -161,7 +161,7 @@ struct NitinJiloha {
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Nitinsjiloha/Nitinsjiloha/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
